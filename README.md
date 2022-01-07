@@ -1,2 +1,6 @@
-# BA_Thesis_BayesianDeepLearning
-Code for my bachelor degree thesis
+# Bayesian Deep Learning: Comparing approximations of the posterior distribution over neural network weights
+
+`skrivher
+
+
+
